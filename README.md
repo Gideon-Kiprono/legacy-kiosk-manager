@@ -113,7 +113,7 @@ The program does not crash on bad input. These are all handled with a clear mess
 
 ## Team
 
-- Name 1: (role / feature)
-- Name 2: (role / feature)
-- Name 3: (role / feature)
-- Name 4: (role / feature)
+- Name 1: Gideon Kiprono
+- Name 2: Emmanuel Kipngeno
+- Name 3: Melvin Kipchumba
+- Name 4: Kanan Mutuma
