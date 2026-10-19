@@ -117,3 +117,9 @@ The program does not crash on bad input. These are all handled with a clear mess
 - Name 2: Emmanuel Kipngeno
 - Name 3: Melvin Kipchumba
 - Name 4: Kanan Mutuma
+
+## Article relating to the project
+Find the link to the article we wrote describiting out steps below:
+[Article](https://dev.to/gideon_kiprono_bfdedde010/kioskmanager-end-to-end-python-project-4n61)
+ 
+ Enjoy! Happy Coding!
